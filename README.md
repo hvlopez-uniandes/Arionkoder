@@ -187,28 +187,6 @@ The application is ready to deploy and will work out of the box.
 
 **Total**: ~6.5 hours
 
-## 🤖 AI Tools Used
-
-This project was built with assistance from **Cursor AI** (Claude Sonnet 4.5).
-
-### Pros:
-- **Rapid Development**: Significantly accelerated component creation and boilerplate code
-- **Type Safety**: AI helped ensure proper TypeScript typing throughout
-- **Best Practices**: Suggestions for React hooks, form validation, and Next.js patterns
-- **Code Consistency**: Maintained consistent code style and structure
-- **Error Prevention**: Caught potential issues before runtime
-
-### Cons:
-- **Context Limitations**: Sometimes required multiple iterations to get the exact implementation
-- **Dependency Management**: Needed manual verification of package versions and compatibility
-- **Custom Logic**: Some business logic required refinement after initial generation
-
-### Findings:
-- AI tools excel at scaffolding and generating boilerplate code
-- They're particularly helpful for setting up form validation and TypeScript interfaces
-- Manual review and testing are still essential
-- AI-generated code often follows best practices but may need customization for specific requirements
-
 ## 🔮 Future Enhancements
 
 With more time, I would implement:
